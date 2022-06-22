@@ -6,7 +6,8 @@
 maze.cpp is a visualiser for generating and solving mazes.
 
 ## :eyes: Example
-See [EXAMPLES.md](EXAMPLES.md)
+![screenshot](assets/Backtracker.png)
+For more see [EXAMPLES.md](EXAMPLES.md)
 
 ## :construction_worker: Building from source
 Requirements
